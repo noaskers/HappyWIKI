@@ -1,6 +1,6 @@
 # Mod
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### What is a Moderator?
 
 A Moderator (Mod) is a senior staff member responsible for handling serious rule violations, maintaining server stability, and assisting both players and staff members. They have more authority than Guides and are trusted with managing high-impact situations.

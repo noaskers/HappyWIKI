@@ -1,6 +1,6 @@
 # Recruit
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### What is a Recruit?
 
 A **Recruit** is the starting rank for staff members. As a Recruit, you assist players with their questions and issues, ensuring fair play and maintaining a fun environment on the server. You are often the first point of contact for players in need and the first to respond when staff assistance is required.
