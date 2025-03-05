@@ -1,29 +1,28 @@
 # ⭐ Ranks
 
-{% hint style="info" %}
-<mark style="color:blue;">On the server, we have different ranks for staff members, each with their own tasks and powers. These ranks help divide the work and make sure every staff member knows what to do. As you get more experience and show you are responsible, you can move up to higher ranks with more powers. Each rank is important for keeping order and making sure all players have a fun time on HappySMP.</mark>
+{% hint style="success" %}
+On the server, we have different staff ranks, each with specific responsibilities and permissions. These ranks help distribute tasks efficiently and ensure that every staff member understands their role. As you gain experience and demonstrate responsibility, you can progress to higher ranks with increased authority. Every rank plays a crucial role in maintaining order and ensuring that all players have a fun and fair experience on HappySMP.
 {% endhint %}
 
 ***
 
-### Requirements for staff members
+### Staff Requirements
 
-To become a staff member, there are some important requirements you must meet.\
+To maintain order and ensure all players have an enjoyable experience on HappySMP, staff members must meet specific requirements.
 
+#### Basic Requirements for All Staff Members
 
-The basic requirements for all staff members are:
-
-* At least 16 years old
-* Mature attitude
-* Honest and reliable
-* Active
-* Discord with a (working) microphone
-* Friendly and respectful
-* Do not misuse your rank or powers
-* No previous bans on your name/account
+* Must be at least **16 years old**
+* Maintain a **mature and responsible attitude**
+* Be **honest and reliable**
+* Stay **active** on the server
+* Have **Discord with a working microphone**
+* Be **friendly and respectful** towards all players
+* **Do not misuse** your rank or powers
+* **No previous bans** on your name/account
 
 ***
 
 {% hint style="danger" %}
-<mark style="color:red;">All staff members should follow these rules and keep doing so. If not a punishment or demotion could follow.</mark>
+All staff members are expected to follow these rules consistently. Failure to do so may result in punishment or demotion.
 {% endhint %}

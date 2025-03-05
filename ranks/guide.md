@@ -1,39 +1,42 @@
 # Guide
 
 {% hint style="info" %}
-<mark style="color:red;">**Guide**</mark> is a rank for staff members who have more experience. They solve more difficult problems and have more authority than <mark style="color:blue;">**Recruits**</mark>. They also supervise the <mark style="color:blue;">**Recruits**</mark> and support them as needed.
+## What is a guide
+
+A Guide is a staff member with more experience and greater responsibilities than a Recruit. They handle more challenging situations, assist with complex issues, and have additional authority. Guides also mentor and support Recruits, ensuring they perform their duties effectively.
 {% endhint %}
 
 ***
 
-### Wat does a Guide do?
+### Responsibilities of a Guide
 
-* Resolving issues with more complexity like griefs, claim issues, etc.
-* Supporting and supervising <mark style="color:blue;">**Recruits**</mark>
-* Resolving <mark style="color:yellow;">tickets</mark> in discord.
-* To undo punishments like <mark style="color:green;">`/unmute`</mark>, <mark style="color:green;">`/unwarn`</mark>` ``&`` `<mark style="color:green;">`/unban`</mark>
+* Resolve more complex issues such as griefing and claim disputes.
+* Support and supervise Recruits.
+* Handle tickets in Discord.
+* Undo punishments such as `/unmute`, `/unwarn`, and `/unban` when appropriate.
 
 ***
 
-### Wat can a Guide do?
+### Guide Permissions & Commands
 
-* Al commands of [<mark style="color:blue;">**Recruit**</mark>](recruit.md)
-* <mark style="color:green;">`/co lookup`</mark>
-* <mark style="color:green;">`/spawn <player>`</mark>
-* <mark style="color:green;">`/homes <player>`</mark>
-* <mark style="color:green;">`/tppos <X> <Y> <Z>`</mark>
-* <mark style="color:green;">`/trust <player>`</mark>
-* <mark style="color:green;">`/playtime <player>`</mark>
-* <mark style="color:green;">`/gmsp`</mark>
-* <mark style="color:green;">`/gms`</mark>
-* <mark style="color:green;">`/warnlist <player>`</mark>
-* <mark style="color:green;">`/history <player>`</mark>
-* <mark style="color:green;">`/unwarn <player> <reason>`</mark> [<mark style="color:blue;">`(-p)`</mark>](#user-content-fn-1)[^1]
-* <mark style="color:green;">`/unmute <player>`</mark> [<mark style="color:blue;">`(-p)`</mark>](#user-content-fn-1)[^1]
-* <mark style="color:green;">`/unban <player>`</mark> [<mark style="color:blue;">`(-p)`</mark>](#user-content-fn-2)[^2]
-* <mark style="color:green;">`/tpsbar;`</mark>
-* <mark style="color:green;">`/ignoreclaims;`</mark>
+Guides have access to all Recruit commands, plus the following:
 
-[^1]: Type <mark style="color:green;">`-p`</mark> at the end of your command to make the action **visible** for the whole server. By default a punishment will be hidden from chat.
+```markup
+/co lookup
+/spawn <player>
+/homes <player>
+/tppos <X> <Y> <Z>
+/trust <player>
+/playtime <player>
+/gmsp
+/gms
+/warnlist <player>
+/history <player>
+/unwarn <player> <reason> (-p)
+/unmute <player> (-p)
+/unban <player> (-p)
+/tpsbar;
+/ignoreclaims;
+```
 
-[^2]: Type <mark style="color:green;">`-p`</mark> at t~~h~~e end of your command to make the action **visible** for the whole server. By default a punishment will be hidden from chat.
+**Note:** Adding `-p` at the end of a command makes the action visible to the entire server. By default, punishments are hidden from chat.

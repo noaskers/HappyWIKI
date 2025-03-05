@@ -1,38 +1,48 @@
 # Recruit
 
-<mark style="color:blue;">**Recruit**</mark> is the rank you get when you start as a staff member. As a <mark style="color:blue;">**Recruit**</mark>, you help players with their questions and problems. You make sure everyone plays fairly and that it stays fun on the server. You are often the first person players go to when they need help, and often the first to respond when someone calls for staff!
+{% hint style="info" %}
+### What is a Recruit?
+
+A **Recruit** is the starting rank for staff members. As a Recruit, you assist players with their questions and issues, ensuring fair play and maintaining a fun environment on the server. You are often the first point of contact for players in need and the first to respond when staff assistance is required.
+{% endhint %}
+
+
 
 ***
 
-### What does a Recruit do?
+### Responsibilities of a Recruit
 
-* You help players with their questions in chat.
-* You resolve conflicts on the server.
-* You ensure everyone plays fairly and has fun.
-* You address people on their behavior.
-* You punish when necessary, such as <mark style="color:green;">`/warn`</mark>, <mark style="color:green;">`/mute`</mark>, or <mark style="color:green;">`/ban`</mark>.
+* Assist players with their questions in chat.
+* Resolve conflicts and disputes on the server.
+* Ensure fair gameplay and a positive atmosphere.
+* Address inappropriate behavior.
+* Enforce rules by issuing warnings, mutes, or bans when necessary.
 
 ***
 
-### What can a Recruit do?
+### Recruit Permissions & Commands
 
-* <mark style="color:green;">`/fly`</mark>&#x20;
-* <mark style="color:green;">`/seen <player>`</mark>
-* <mark style="color:green;">`/v`</mark> <mark style="color:green;"></mark><mark style="color:green;">or</mark> <mark style="color:green;"></mark><mark style="color:green;">`/vanish`</mark>&#x20;
-* <mark style="color:green;">`/mute <player> <duration> <reason>`</mark>[<mark style="color:green;">`(-p)`</mark>](#user-content-fn-1)[^1][<mark style="color:green;">​</mark>](#user-content-fn-2)[^2]
-* <mark style="color:green;">`/unmute <player> <reason>`</mark>[<mark style="color:green;">`(-p)​`</mark>](#user-content-fn-1)[^1]
-* <mark style="color:green;">`/warn <player> <reason>`</mark>[<mark style="color:green;">`(-p)`</mark>](#user-content-fn-1)[^1]
-* <mark style="color:green;">`/kick <player> <reason>`</mark>[<mark style="color:green;">`(-p)`</mark>](#user-content-fn-1)[^1]
-* <mark style="color:green;">`/ban <player> <time> <reason>`</mark> [<mark style="color:green;">`(-p)`</mark>](#user-content-fn-1)[^1]
-* <mark style="color:green;">`/invsee <player>`</mark>
-* <mark style="color:green;">`/tp <player>`</mark>
-* <mark style="color:green;">`/tp <player1> <player2>`</mark>
-* <mark style="color:green;">`/co i`</mark>&#x20;
-* <mark style="color:green;">`/staff`</mark> Work for some fuctions
-* <mark style="color:green;">`/flyspeed 1/2`</mark>&#x20;
-* Access to the <mark style="color:red;">**in-game staffchat**</mark> with <mark style="color:green;">`!<message>`</mark> or use <mark style="color:green;">`/staffchat`</mark> to toggle
-* <mark style="color:yellow;">Access to the</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Staff communication channels**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">in</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Discord**</mark><mark style="color:yellow;">;</mark>
+<pre class="language-markup"><code class="lang-markup"><strong>/fly (Unlimted flytime)
+</strong>/flyspeed &#x3C;1/2>
+/seen &#x3C;player>
+/v or /vanish
+/mute &#x3C;player> &#x3C;duration> &#x3C;reason> (-p)
+/unmute &#x3C;player> &#x3C;reason> (-p)
+/warn &#x3C;player> &#x3C;reason> (-p)
+/kick &#x3C;player> &#x3C;reason> (-p)
+/ban &#x3C;player> &#x3C;time> &#x3C;reason> (-p)
+/invsee &#x3C;player>
+/tp &#x3C;player>
+/tp &#x3C;player1> &#x3C;player2>
+/co inspect
+/staff (Work for some functions)
+</code></pre>
 
-[^1]: Type <mark style="color:green;">`-p`</mark> at the end of your command to make the action **visible** for the whole server. By default a punishment will be hidden from chat.
+**Note:** Adding `-p` at the end of a command makes the action visible to the entire server. By default, punishments are hidden from chat.
 
-[^2]: 
+***
+
+### Additional Access
+
+* In-game staff chat: `!<message>` or toggle with `/staffchat`
+* Access to Staff communication channels in Discord
