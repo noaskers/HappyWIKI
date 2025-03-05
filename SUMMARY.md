@@ -22,3 +22,6 @@
   * [Ban avoiding](moderation/ban-avoiding.md)
   * [Scamming](moderation/scamming.md)
   * [Using macro's](moderation/using-macros.md)
+* [Discord](discord/README.md)
+  * [Tickets](discord/tickets.md)
+  * [Untitled](discord/untitled.md)
