@@ -1,6 +1,6 @@
 # Guide
 
-{% hint style="danger" %}
+{% hint style="success" %}
 ## What is a guide
 
 A Guide is a staff member with more experience and greater responsibilities than a Recruit. They handle more challenging situations, assist with complex issues, and have additional authority. Guides also mentor and support Recruits, ensuring they perform their duties effectively.
