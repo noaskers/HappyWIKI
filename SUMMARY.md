@@ -17,7 +17,7 @@
   * [Bad language/swearing](moderation/bad-language-swearing.md)
   * [Spam](moderation/spam.md)
   * [Exploiting/Bug Abuse](moderation/exploiting-bug-abuse.md)
-  * [AFK IS ALLOWED FOR NOW](moderation/afk-is-allowed-for-now.md)
+  * [Afk bypassing](moderation/afk-bypassing.md)
   * [Hacking/Cheating](moderation/hacking-cheating.md)
   * [Griefing](moderation/griefing/README.md)
     * [Griefing & Punishments Policy](moderation/griefing/griefing-and-punishments-policy.md)
