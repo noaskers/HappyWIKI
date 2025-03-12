@@ -23,20 +23,14 @@ A Moderator (Mod) is a senior staff member responsible for handling serious rule
 Moderators have access to all Guide commands, plus the following:
 
 ```markup
-/tempban <player> <duration> <reason> (-p)
-/permban <player> <reason> (-p)
-/jail <player> <time> <reason>
-/unjail <player>
-/rollback <player> <time>
-/freeze <player>
-/ipban <player>
-/unipban <player>
-/chatmute <duration> <reason>
-/unchatmute
+/ipban <player> <duration> <reason> (-p)
+/ipmute <player> <duration> <reason> (-p)
+/pv <player> <vault>
+/tpsbar
+/gmsp
+/gms
+/qs remove
 /clearchat
-/tphere <player>
-/invsee <player> (modify mode)
-/ec <player>
 ```
 
 **Note:** Adding `-p` at the end of a command makes the action visible to the entire server. By default, punishments are hidden from chat.
