@@ -1,6 +1,6 @@
 # Recruit commands
 
-### **/fly**
+## **/fly**
 
 Enable or disable flight mode. As a Recruit, you have unlimited fly time to assist others!
 
@@ -15,7 +15,7 @@ Adjust your flying speed.
 * `1`: Normal speed
 * `2`: Double speed
 
-### **/seen**
+## **/seen**
 
 Check when a player was last online.
 
@@ -23,7 +23,7 @@ Check when a player was last online.
 /seen <player>
 ```
 
-### **/vanish**
+## **/vanish**
 
 Become invisible to other players, useful for monitoring or moderation.
 
@@ -31,7 +31,7 @@ Become invisible to other players, useful for monitoring or moderation.
 /vanish
 ```
 
-### **/mute**
+## **/mute**
 
 Temporarily mute a player to prevent them from chatting.
 
@@ -47,7 +47,7 @@ Unmute a previously muted player.
 /unmute <player>
 ```
 
-### **/warn**
+## **/warn**
 
 Issue a warning to a player for rule violations.
 
@@ -55,7 +55,7 @@ Issue a warning to a player for rule violations.
 /warn <player> <reason>
 ```
 
-### **/kick**
+## **/kick**
 
 Remove a player from the server.
 
@@ -63,7 +63,7 @@ Remove a player from the server.
 /kick <player> <reason>
 ```
 
-### **/ban**
+## **/ban**
 
 Permanently ban a player from the server.
 
@@ -71,7 +71,7 @@ Permanently ban a player from the server.
 /ban <player> <time> <reason>
 ```
 
-### **/invsee**
+## **/invsee**
 
 View a player's inventory in real-time.
 
@@ -79,7 +79,7 @@ View a player's inventory in real-time.
 /invsee <player>
 ```
 
-### **/tp**
+## **/tp**
 
 Teleport to another player or bring them to you.
 
@@ -87,7 +87,7 @@ Teleport to another player or bring them to you.
 /tp <player>
 ```
 
-### **/co i**
+## **/co i**
 
 Inspect block changes to track who placed or removed blocks.
 
@@ -95,7 +95,7 @@ Inspect block changes to track who placed or removed blocks.
 /co i
 ```
 
-### **/staff**
+## **/staff**
 
 Open the staff menu to access important settings
 
