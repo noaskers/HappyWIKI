@@ -15,7 +15,7 @@ Adjust your flying speed.
 * `1`: Normal speed
 * `2`: Double speed
 
-## **/seen**
+### **/seen**
 
 Check when a player was last online.
 
@@ -23,7 +23,7 @@ Check when a player was last online.
 /seen <player>
 ```
 
-## **/vanish**
+### **/vanish**
 
 Become invisible to other players, useful for monitoring or moderation.
 
