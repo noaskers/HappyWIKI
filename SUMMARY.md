@@ -8,6 +8,7 @@
     * [Commands usage](ranks/guide/commands-usage.md)
   * [Mod](ranks/mod/README.md)
     * [Commands usage](ranks/mod/commands-usage.md)
+* [Timeframe](timeframe.md)
 * [⚡ Moderation](moderation/README.md)
   * [Inappropriate language](moderation/inappropriate-language.md)
   * [Inappropriate builds](moderation/inappropriate-builds.md)
