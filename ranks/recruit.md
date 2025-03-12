@@ -24,3 +24,8 @@ A **Recruit** is the starting rank for staff members. As a Recruit, you assist p
 
 * In-game staff chat: `!<message>` or toggle with `/staffchat`
 * Access to Staff communication channels in Discord
+
+***
+
+### [Full list of commands [commands-usage.md](recruit/commands-usage.md "mention")](recruit/commands-usage.md)
+
