@@ -1,4 +1,4 @@
-# Commands usage
+# Recruit commands
 
 ### Command: /fly
 
