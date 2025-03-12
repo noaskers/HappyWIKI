@@ -1,14 +1,23 @@
 # Table of contents
 
 * [Welcome to the Staff Wiki!](README.md)
-* [⭐ Ranks](ranks/README.md)
-  * [Recruit](ranks/recruit/README.md)
-    * [Commands usage](ranks/recruit/commands-usage.md)
-  * [Guide](ranks/guide/README.md)
-    * [Commands usage](ranks/guide/commands-usage.md)
-  * [Mod](ranks/mod/README.md)
-    * [Commands usage](ranks/mod/commands-usage.md)
-* [Timeframe](timeframe.md)
+
+## Ranks
+
+* [⭐ Ranks](ranks/ranks/README.md)
+  * [Recruit](ranks/ranks/recruit.md)
+  * [Guide](ranks/ranks/guide.md)
+  * [Mod](ranks/ranks/mod.md)
+
+## Commands
+
+* [Recruit commands](commands/recruit-commands.md)
+
+***
+
+* [Guide commands](guide-commands.md)
+* [Mod commands](mod-commands.md)
+* [Timeframe Usage](timeframe-usage.md)
 * [⚡ Moderation](moderation/README.md)
   * [Inappropriate language](moderation/inappropriate-language.md)
   * [Inappropriate builds](moderation/inappropriate-builds.md)
