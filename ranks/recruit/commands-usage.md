@@ -39,6 +39,8 @@ Temporarily mute a player to prevent them from chatting.
 /mute <player> <time> <reason>
 ```
 
+For more info on \<time> go to [timeframe-usage.md](../../commands/timeframe-usage.md "mention")
+
 ### **/unmute**
 
 Unmute a previously muted player.
@@ -70,6 +72,8 @@ Permanently ban a player from the server.
 ```
 /ban <player> <time> <reason>
 ```
+
+For more info on \<time> go to [timeframe-usage.md](../../commands/timeframe-usage.md "mention")
 
 ## **/invsee**
 
