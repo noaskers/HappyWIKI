@@ -15,3 +15,8 @@ A Moderator (Mod) is a senior staff member responsible for handling serious rule
 * Supervise and support Recruits and Guides.
 * Resolve major disputes and escalated issues.
 * Ensure the overall safety and fairness of the server.
+
+***
+
+## [FULL COMMAND LIST [mod-commands.md](../commands/mod-commands.md "mention")](../commands/mod-commands.md)
+
