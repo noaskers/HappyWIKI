@@ -15,22 +15,3 @@ A Moderator (Mod) is a senior staff member responsible for handling serious rule
 * Supervise and support Recruits and Guides.
 * Resolve major disputes and escalated issues.
 * Ensure the overall safety and fairness of the server.
-
-***
-
-### Moderator Permissions & Commands
-
-Moderators have access to all Guide commands, plus the following:
-
-```markup
-/ipban <player> <duration> <reason> (-p)
-/ipmute <player> <duration> <reason> (-p)
-/pv <player> <vault>
-/tpsbar
-/gmsp
-/gms
-/qs remove
-/clearchat
-```
-
-**Note:** Adding `-p` at the end of a command makes the action visible to the entire server. By default, punishments are hidden from chat.

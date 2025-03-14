@@ -17,26 +17,5 @@ A Guide is a staff member with more experience and greater responsibilities than
 
 ***
 
-### Guide Permissions & Commands
+## [FULL COMMAND LIST [guide-commands.md](../commands/guide-commands.md "mention")](../commands/guide-commands.md)
 
-Guides have access to all Recruit commands, plus the following:
-
-```markup
-/co lookup
-/spawn <player>
-/homes <player>
-/tppos <X> <Y> <Z>
-/trust <player>
-/playtime <player>
-/gmsp
-/gms
-/warnlist <player>
-/history <player>
-/unwarn <player> <reason> (-p)
-/unmute <player> (-p)
-/unban <player> (-p)
-/tpsbar;
-/ignoreclaims;
-```
-
-**Note:** Adding `-p` at the end of a command makes the action visible to the entire server. By default, punishments are hidden from chat.

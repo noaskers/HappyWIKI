@@ -4,6 +4,10 @@
 
 Enable or disable flight mode. As a Recruit, you have unlimited fly time to assist others!
 
+```
+/fly
+```
+
 ### **/flyspeed**
 
 Adjust your flying speed.
@@ -36,7 +40,7 @@ Become invisible to other players, useful for monitoring or moderation.
 Temporarily mute a player to prevent them from chatting.
 
 ```
-/mute <player> <time> <reason>
+/mute <player> <time> <reason> (-p)
 ```
 
 For more info on \<time> go to [timeframe-usage.md](../../commands/timeframe-usage.md "mention")
@@ -46,7 +50,7 @@ For more info on \<time> go to [timeframe-usage.md](../../commands/timeframe-usa
 Unmute a previously muted player.
 
 ```
-/unmute <player>
+/unmute <player> (-p)
 ```
 
 ## **/warn**
@@ -54,7 +58,7 @@ Unmute a previously muted player.
 Issue a warning to a player for rule violations.
 
 ```
-/warn <player> <reason>
+/warn <player> <reason> (-p)
 ```
 
 ## **/kick**
@@ -62,7 +66,7 @@ Issue a warning to a player for rule violations.
 Remove a player from the server.
 
 ```
-/kick <player> <reason>
+/kick <player> <reason> (-p)
 ```
 
 ## **/ban**
@@ -70,7 +74,7 @@ Remove a player from the server.
 Permanently ban a player from the server.
 
 ```
-/ban <player> <time> <reason>
+/ban <player> <time> <reason> (-p)
 ```
 
 For more info on \<time> go to [timeframe-usage.md](../../commands/timeframe-usage.md "mention")
@@ -107,5 +111,7 @@ Open the staff menu to access important settings
 /staff
 ```
 
+#### Note
 
+Adding `-p` at the end of a command makes the action visible to the entire server. By default, punishments are hidden from chat.
 
