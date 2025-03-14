@@ -1,4 +1,4 @@
-# ⭐ Ranks
+# Home
 
 {% hint style="success" %}
 On the server, we have different staff ranks, each with specific responsibilities and permissions. These ranks help distribute tasks efficiently and ensure that every staff member understands their role. As you gain experience and demonstrate responsibility, you can progress to higher ranks with increased authority. Every rank plays a crucial role in maintaining order and ensuring that all players have a fun and fair experience on HappySMP.

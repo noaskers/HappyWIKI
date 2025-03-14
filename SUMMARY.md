@@ -1,6 +1,9 @@
 # Table of contents
 
+## 🏠 Home
+
 * [Welcome to the Staff Wiki!](README.md)
+* [Home](home/home.md)
 
 ## ⭐ Ranks
 
@@ -17,7 +20,6 @@
 
 ***
 
-* [⭐ Ranks](ranks-1.md)
 * [⚡ Moderation](moderation/README.md)
   * [Inappropriate language](moderation/inappropriate-language.md)
   * [Inappropriate builds](moderation/inappropriate-builds.md)
