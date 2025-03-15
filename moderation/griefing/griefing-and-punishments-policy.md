@@ -1,32 +1,41 @@
 # Griefing & Punishments Policy
 
-### Reporting Griefing in Unclaimed Areas
+## 1. **Reporting Griefing in Unclaimed Areas**
 
-Players have a **2-3 day window** to report griefing in **unclaimed areas**.
+* Players have **2-3 days** to report griefing in unclaimed areas.
+* This time limit prevents staff from being overwhelmed while still protecting the server and its players.
 
-> This ensures that staff are not overwhelmed while maintaining server integrity and player protection.
+## 2. **What Counts as Griefing?**
 
-### Classification of Griefing
+### **Minor Griefs:**
 
-#### **Minor Griefs**
+* Small damage like a few broken blocks, crops, or stolen items.
 
-* A few broken blocks, crops, or stolen items.
+### **Major Griefs:**
 
-#### **Major Griefs**
+* Large-scale damage requiring a rollback or significant repairs.
 
-* Many broken blocks, crops, or stolen items requiring a rollback or significant repair.
+## 3. **Griefing Punishments**
 
-### Punishments for Griefing in Unclaimed Areas
+### **Minor Griefs**
 
-| Offense                | Punishment             |
-| ---------------------- | ---------------------- |
-| **First Minor Grief**  | Verbal warning         |
-| **Second Minor Grief** | Formal `/warn`         |
-| **Third Minor Grief**  | Temporary ban          |
-| **Further Offenses**   | Escalating punishments |
+| Offense            | Punishment                            |
+| ------------------ | ------------------------------------- |
+| First Minor Grief  | Verbal warning                        |
+| Second Minor Grief | Formal `/warn`                        |
+| Third Minor Grief  | Temporary ban                         |
+| Further Offenses   | Harsher punishments based on severity |
 
-> This structured approach ensures staff have clear guidelines for handling unclaimed area griefing.
+### **Major Griefs**
 
-### Maintaining Server Cleanliness
+| Offense            | Punishment                          |
+| ------------------ | ----------------------------------- |
+| First Major Grief  | Temporary ban                       |
+| Second Major Grief | Extended ban                        |
+| Further Offenses   | Permanent ban (at staff discretion) |
 
-Protecting **unclaimed areas** aligns with **Rule 11**, which emphasizes keeping the server clean. Addressing griefing, even in unclaimed areas, upholds this principle and maintains a quality gameplay experience for all.
+## 4. **Why This Policy Matters**
+
+Unclaimed areas are still part of the server and are protected under **Rule 11**, which focuses on keeping the world clean and enjoyable. Even if a player hasn't claimed an area, griefing disrupts the experience for others.
+
+By following these guidelines, staff can handle griefing fairly while keeping the server a positive place for everyone.
