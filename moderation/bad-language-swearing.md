@@ -1,7 +1,12 @@
 # Bad language/swearing
 
 {% hint style="info" %}
-Examples: All swear words that are replaced by the filter with "\*\*\*\*" such as "Fuck", "wtf", "shit", "damn", etc. Spam is defined as typing the same thing multiple times, or excessive use of letters, spaces, or symbols.
+The following **mild swear words** are **allowed**, as long as they are not used to harass or offend others:\
+**wtf, omfg, shit, damn, hell, crap, pissed, frick, dang, heck, ass** (non-directed), and other similar non-offensive terms.
+
+Swear words that are automatically removed by the filter with (such as stronger profanity) remain **prohibited**.
+
+Always maintain a respectful tone and follow the community guidelines.
 {% endhint %}
 
 ***
