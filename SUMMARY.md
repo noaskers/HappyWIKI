@@ -24,15 +24,18 @@
 * [Griefing & Punishments Policy](moderation/griefing/griefing-and-punishments-policy.md)
 * [Land Unclaim Policies](policies/land-unclaim-policies.md)
 
+## 📜 Moderation
+
+* [Offensive Behavior](moderation/offensive-behavior.md)
+* [Bad language/swearing](moderation/bad-language-swearing.md)
+
 ## 🪶 Group other
 
 * [⚡ Moderation](moderation/README.md)
-  * [Inappropriate language](moderation/inappropriate-language.md)
   * [Inappropriate builds](moderation/inappropriate-builds.md)
   * [Inappropriate items/signs/etc](moderation/inappropriate-items-signs-etc.md)
   * [Toxic behaviour](moderation/toxic-behaviour.md)
   * [Advertising](moderation/advertising.md)
-  * [Bad language/swearing](moderation/bad-language-swearing.md)
   * [Spam](moderation/spam.md)
   * [Exploiting/Bug Abuse](moderation/exploiting-bug-abuse.md)
   * [Afk bypassing](moderation/afk-bypassing.md)
