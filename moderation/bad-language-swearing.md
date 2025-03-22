@@ -1,13 +1,13 @@
 # Bad language/swearing
 
-{% hint style="info" %}
-The following **mild swear words** are **allowed**, as long as they are not used to harass or offend others:\
+{% hint style="success" %}
+### ✅ Allowed Swear Words & Chat Guidelines
+
+The following **mild swear words** are **allowed**, as long as they are not used to harass, insult, or target others:\
 **wtf, omfg, shit, damn, hell, crap, pissed, frick, dang, heck, ass** (non-directed), and other similar non-offensive terms.
-
-Swear words that are automatically removed by the filter with (such as stronger profanity) remain **prohibited**.
-
-Always maintain a respectful tone and follow the community guidelines.
 {% endhint %}
+
+Most swear words are caught by the chat filter. You generally won't need to take action unless users repeatedly attempt to bypass it or spam offensive terms. In most cases, the chat filter will automatically mute the user.
 
 ***
 
@@ -18,6 +18,22 @@ Always maintain a respectful tone and follow the community guidelines.
 
 ***
 
-{% hint style="warning" %}
-Note: <mark style="color:orange;">The use of extreme swear words such as "faggot", "homo", "fuck you bitch", and similar terms that are personally offensive will immediately lead to a harsher punishment (one step up in the punishment list). If a new player immediately swears and/or spams, a 30d ban will be given for 'No intention to play'. New players are those who joined less than 7 days ago and/or have less than 5 hours of playtime.</mark>
+{% hint style="danger" %}
+#### 🚨 Zero-Tolerance Policy for Extreme Language
+
+The use of **extreme or personally offensive terms** (e.g., **"faggot," "homo," "fuck you bitch"**) will result in an **immediate harsher punishment**, advancing **one step higher** on the punishment scale.
+
+If a **new player** engages in swearing and/or spamming immediately upon joining, they will receive a **30-day ban** for **"No intention to play."**
+
+**Definition of New Player:**\
+A player who has joined **less than 7 days ago** and/or has **less than 5 hours** of playtime.
 {% endhint %}
+
+{% hint style="success" %}
+#### 📌 Staff Expectations
+
+Staff must enforce these guidelines **fairly** and **consistently** to ensure a safe, respectful, and welcoming community environment. Use discretion when handling edge cases, and always prioritize clear communication with players.
+
+If unsure about how to handle a situation, consult with senior staff for guidance.
+{% endhint %}
+
