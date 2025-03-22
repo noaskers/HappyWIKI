@@ -36,6 +36,14 @@ Teleport to specific coordinates.
 /tppos <X> <Y> <Z>
 ```
 
+## /otp
+
+Teleport to offline players.
+
+```
+/otp <player>
+```
+
 ## **/trust**
 
 Give a player access to build in your claim.
