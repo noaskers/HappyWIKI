@@ -9,7 +9,7 @@ description: >-
 ## 1. **When Land Can Be Unclaimed**
 
 * **No Builds**: Land can only be unclaimed if there’s **nothing built on it**. Natural structures (e.g., villages, spawners, Custom structures) **don’t count** as player builds—players can claim these without issue and keep them.
-* **Inactive Players**: Land with player builds can only be unclaimed if the owner has been offline for **30+ days**ys\*\*, usually if it blocks other player claims.
+* **Inactive Players**: Land with player builds can only be unclaimed if the owner has been offline for **30+ days**, usually if it blocks other player claims.
 
 ## 2. **Early Unclaims**
 
