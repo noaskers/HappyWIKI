@@ -16,6 +16,7 @@
 * [Recruit commands](ranks/recruit/commands-usage.md)
 * [Guide commands](commands/guide-commands.md)
 * [Mod commands](commands/mod-commands.md)
+* [Tpsbar](commands/tpsbar.md)
 * [Timeframe Usage](commands/timeframe-usage.md)
 
 ## ⚖️ Policies
