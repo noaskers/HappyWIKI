@@ -1,4 +1,4 @@
-# Tpsbar
+# Tpsbar Usage
 
 The `/tpsbar` command displays a visual bar showing the current **TPS (Ticks Per Second)** and optionally **MSPT (Milliseconds Per Tick)** to monitor server performance.
 
@@ -41,14 +41,3 @@ The `/tpsbar` command displays a visual bar showing the current **TPS (Ticks Per
 | 17.0 - 19.4 | 🟨 Yellow | Minor lag             |
 | 14.0 - 16.9 | 🟧 Orange | Noticeable lag        |
 | 0.0 - 13.9  | 🟥 Red    | Heavy lag             |
-
-***
-
-### Usage
-
-```bash
-/tpsbar
-```
-
-* Displays the live TPS and possibly MSPT in the **action bar** or **scoreboard**.
-* Requires permission: `tpsbar.use` (may vary per plugin).

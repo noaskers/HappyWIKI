@@ -100,13 +100,7 @@ Unban a player.
 /unban <player> (-p)
 ```
 
-## **/tpsbar**
 
-Display the server's current TPS (Ticks Per Second).
-
-```
-/tpsbar
-```
 
 ## **/ignoreclaims**
 

@@ -103,6 +103,16 @@ Inspect block changes to track who placed or removed blocks.
 /co i
 ```
 
+## **/tpsbar**
+
+Display the server's current TPS (Ticks Per Second).
+
+```
+/tpsbar
+```
+
+For more info go to [tpsbar-usage.md](../../commands/tpsbar-usage.md "mention")
+
 ## **/staff**
 
 Open the staff menu to access important settings
