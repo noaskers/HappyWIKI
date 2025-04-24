@@ -113,6 +113,16 @@ Display the server's current TPS (Ticks Per Second).
 
 For more info go to [tpsbar-usage.md](../../commands/tpsbar-usage.md "mention")
 
+## **/note**
+
+Open the staff menu to access important settings
+
+```
+/note <player>
+```
+
+For more info go to [notes-usage.md](../../commands/notes-usage.md "mention")
+
 ## **/staff**
 
 Open the staff menu to access important settings

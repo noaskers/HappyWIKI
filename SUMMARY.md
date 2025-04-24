@@ -18,6 +18,7 @@
 * [Mod commands](commands/mod-commands.md)
 * [Tpsbar Usage](commands/tpsbar-usage.md)
 * [Timeframe Usage](commands/timeframe-usage.md)
+* [Notes Usage](commands/notes-usage.md)
 
 ## ⚖️ Policies
 
