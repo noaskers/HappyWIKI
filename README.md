@@ -1,4 +1,4 @@
-# Welcome to the Staff Wiki!
+# Welcome to the Staff Wiki!!
 
 This is the place where you can find _everything_ you need to perform well as a staff member on the _**HappySMP Minecraft Server**_.
 
