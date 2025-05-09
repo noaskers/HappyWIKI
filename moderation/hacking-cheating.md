@@ -13,5 +13,5 @@
 ***
 
 {% hint style="warning" %}
-**Note:** <mark style="color:orange;">Give new players</mark> <mark style="color:green;">`/tempban 30d`</mark>
+**Note:** <mark style="color:orange;">Give new players</mark> <mark style="color:green;">`/tempban 30d` and add "No intention of play to `/notes`"</mark>
 {% endhint %}
