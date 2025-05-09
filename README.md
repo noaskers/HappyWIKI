@@ -14,4 +14,4 @@ _Do you have suggestions or improvements for the Wiki? Contact <mark style="colo
 
 {% hint style="warning" %}
 <mark style="color:orange;">Click</mark> **->** <mark style="color:orange;">to go to the next page, or use the menu on the left to jump directly to a certain topic!</mark>
-{% endhint %}
+{% endhint %} 
