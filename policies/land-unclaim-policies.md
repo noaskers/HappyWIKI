@@ -20,6 +20,15 @@ In some cases, land can be unclaimed **before 30 days** if:
 * The player has **no homes set** on the land.
 * The player is **not at that location** when you teleport to them using `/otp`.
 
+## 2. **Late Unclaims**
+
+In more advanced cases, land with bases, chestshops, and builds can be unclaimed if:
+
+* The claim is owned by a permanently banned player, and a player has requested it to be removed.
+* The claim owner has given explicit permission to a player to become the new claim owner.
+* The player has been offline for more than **60+ days**.
+* If the claim has chestshops, they must be fully out of stock.
+
 ## 3. **Staff Discretion**
 
 * Always prioritize fairness when unclaiming land.
