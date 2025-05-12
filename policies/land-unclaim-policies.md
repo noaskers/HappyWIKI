@@ -1,7 +1,7 @@
 ---
 description: >-
   These guidelines explain when and how staff can unclaim player-owned land. The
-  goal is to balance fair land management while respecting player builds.
+  goal is to balance fair land management while respecting player builds. Claims can only be unclaimed by Mods and above, so if a claim must be removed please consult them. 
 ---
 
 # Land Unclaim Policies
