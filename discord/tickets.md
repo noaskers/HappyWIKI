@@ -50,3 +50,5 @@ Automatically closes the ticket if the user does not respond within the specifie
 ***
 
 This guide ensures that all staff members understand how to effectively manage tickets using the available commands.
+
+`Make sure that your ticket responses and professional, and genuinely helpful. If you need assistance in a ticket, please ask for assistance from another staff member. Alternatively, if it is a problem only a certain staff rank can solve, ping them.`
