@@ -1,3 +1,4 @@
+# Code of conduct
 ---
 description: >-
   This page will detail the staff code of conduct i.e. how to properly operate as staff, and what ideals and principles we should all be implementing into our staffing and moderation.
