@@ -3,6 +3,7 @@
 ## 🏠 Home
 
 * [Welcome to the Staff Wiki!](README.md)
+* [Code of conduct](home/code-of-conduct.md)
 * [Home](home/home.md)
 
 ## ⭐ Ranks

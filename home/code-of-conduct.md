@@ -1,22 +1,15 @@
 # Code of conduct
 
-# Chat Policies
+## Chat Policies
 
-## 1. **Community Interaction**
+### 1. **Community Interaction**
 
-`Conversing, and interacting with the community is an integral way to build good repore and respect within the server. This becomes exponentially more important when
-factored into staffing. Players should not simply see you as police, or the judge and jury. They should be able to see you as someone they can go to when they have issues, or feel safe
-with if something is getting out of hand on the server. Interaction will also enable you as staff to better understand the ins and outs of what makes each server member tick, meaning
-that you are able to moderate under the premise and guidelines of the rule, but also seek further understand through your knowledge of the player base.`
+`Conversing, and interacting with the community is an integral way to build good repore and respect within the server. This becomes exponentially more important when factored into staffing. Players should not simply see you as police, or the judge and jury. They should be able to see you as someone they can go to when they have issues, or feel safe with if something is getting out of hand on the server. Interaction will also enable you as staff to better understand the ins and outs of what makes each server member tick, meaning that you are able to moderate under the premise and guidelines of the rule, but also seek further understand through your knowledge of the player base.`
 
-### 2. **Respect and Professionalism**
+#### 2. **Respect and Professionalism**
 
-'Treating others with respect and patience should already be something within your own personal values, however within the staff team this becomes even more important as you
-are aiding the players with the issues on the server. Additionally, speaking profressionally allows more players to understand you, along with understand the tone in which you are
-trying to convey your message.'
+'Treating others with respect and patience should already be something within your own personal values, however within the staff team this becomes even more important as you are aiding the players with the issues on the server. Additionally, speaking profressionally allows more players to understand you, along with understand the tone in which you are trying to convey your message.'
 
-### 3. **Breaks and Time Off**
+#### 3. **Breaks and Time Off**
 
-'As we've previously mentioned before, taking breaks and time off is very important, please have your life, health and well-being take priority. If you need time off, let us know in
-  the #absent channel, or if you need help because you feel overwhelmed by a situation, let another staff know so we can help you.`
-
+'As we've previously mentioned before, taking breaks and time off is very important, please have your life, health and well-being take priority. If you need time off, let us know in the #absent channel, or if you need help because you feel overwhelmed by a situation, let another staff know so we can help you.\`
