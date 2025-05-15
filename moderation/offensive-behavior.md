@@ -9,7 +9,7 @@ The following behaviors will not be tolerated on this platform:
 * Engaging in sexual or intimate remarks towards others.
 {% endhint %}
 
-These behaviors are generally detected by the chat filter. In most cases, the filter will automatically mute the user. Staff should only take action if users repeatedly bypass the filter or intentionally violate the rules.
+These behaviors are generally detected by the chat filter. In most cases, the filter will automatically mute the user. Staff should only take action if users repeatedly bypass the filter or intentionally violate the rules. If the 'sexual or intimate' remarks are made toward children, please take more advanced action.
 
 ***
 
