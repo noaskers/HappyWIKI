@@ -10,7 +10,7 @@
 * **#2:** <mark style="color:green;">`/warn`</mark>
 * **#3:** <mark style="color:green;">`/warn`</mark> + <mark style="color:green;">`/tempban 8h`</mark>
 * **#4:** <mark style="color:green;">`/warn`</mark> +<mark style="color:green;">`/tempban 3d`</mark>
-* **Repeat after #3:**<mark style="color:green;">`/warn`</mark> + <mark style="color:green;">`/tempban 7d`</mark>
+* **Repeat after #4:**<mark style="color:green;">`/warn`</mark> + <mark style="color:green;">`/tempban 3d`</mark>
 
 ***
 
