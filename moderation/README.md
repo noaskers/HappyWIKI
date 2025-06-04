@@ -12,4 +12,8 @@
 <mark style="color:red;">Punishments are only visible to staff members by default. By using</mark> '-p' <mark style="color:red;">after a punishment, it can be made public so everyone can see it in the chat. Use this in situations where you also want to warn others about the consequences of breaking the rules.</mark>
 {% endhint %}
 
+<<<<<<< HEAD
 Note: Once a punishment has been made i.e. ban/mute/warn it must be recorded in the `#notes` Discord channel. You can additionally make notes in game with the command `/notes add [user] [punishment reason]`. Make sure that the note written gives an explaination about why the player has banned. It is advised that you attatch a screenshot of the punishment in the thread connected to the note.
+=======
+`Note: Once a punishment has been made i.e. ban/mute/warn it must be recorded in the #notes Discord channel. You can additionally make notes in game with the command **/notes add [user] [punishment reason]. Make sure that the note written gives an explaination about why the player has banned. It is advised that you attatch a screenshot of the punishment in the thread connected to the note.**`
+>>>>>>> 48ca43fe569fb14bd324a39106e95ded17a253cc
