@@ -14,5 +14,5 @@
 ***
 
 {% hint style="warning" %}
-Note: <mark style="color:orange;">For inappropriate item names, ensure that these items are confiscated and destroyed. For inappropriate Minecraft names, ensure that people change them, or ask Sven/Luke if in doubt.</mark>
+Note: <mark style="color:orange;">For inappropriate item names, ensure that these items are confiscated and destroyed. For inappropriate Minecraft names, ensure that people change them, or ask Sven/Luke if in doubt. When dealing with people sharing personal information, if the information being shared is being used to dox someone; such as address, full legal name, etc. the punishment can be increased to **#2**.</mark>
 {% endhint %}

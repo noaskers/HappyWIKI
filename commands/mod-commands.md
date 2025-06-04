@@ -80,6 +80,14 @@ Remove items from ah while pressing `Q` while in the menu.&#x20;
 /ah
 ```
 
+## /unclaim 
+
+Remove claims for claim removal requests.
+
+```
+/unclaim
+```
+
 #### Note
 
 Adding `-p` at the end of a command makes the action visible to the entire server. By default, punishments are hidden from chat.

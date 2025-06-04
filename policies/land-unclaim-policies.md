@@ -1,7 +1,7 @@
 ---
 description: >-
   These guidelines explain when and how staff can unclaim player-owned land. The
-  goal is to balance fair land management while respecting player builds.
+  goal is to balance fair land management while respecting player builds. Claims can only be unclaimed by Mods and above, so if a claim must be removed please consult them. 
 ---
 
 # Land Unclaim Policies
@@ -19,6 +19,15 @@ In some cases, land can be unclaimed **before 30 days** if:
 * The build has **no valuable items** (e.g., no rare blocks, chests with loot).
 * The player has **no homes set** on the land.
 * The player is **not at that location** when you teleport to them using `/otp`.
+
+## 2. **Late Unclaims**
+
+In more advanced cases, land with bases, chestshops, and builds can be unclaimed if:
+
+* The claim is owned by a permanently banned player, and a player has requested it to be removed.
+* The claim owner has given explicit permission to a player to become the new claim owner.
+* The player has been offline for more than **60+ days**.
+* If the claim has chestshops, they must be fully out of stock.
 
 ## 3. **Staff Discretion**
 
